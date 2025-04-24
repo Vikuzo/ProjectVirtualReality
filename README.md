@@ -2,7 +2,7 @@
 
 - Mappa concettuale 
 
-- Programmazione:
+- Programmazione: </br>
 Armadietto (Alessio + Mati) </br>
 Npc (?) </br>
 Aree gioco </br>
