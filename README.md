@@ -4,6 +4,6 @@
 
 - Programmazione: </br>
 Armadietto (Alessio + Mati) </br>
-Npc (?) </br>
+Npc (?) </br> (Vincenzo)
 Aree gioco </br>
 Ambiente verde e rilassante </br>
