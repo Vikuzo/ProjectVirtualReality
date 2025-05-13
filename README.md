@@ -1,9 +1,5 @@
-# Cose da fare
+# Spatial Unity SDK Starter Template
 
-- Mappa concettuale 
+A template to get you started building environments for Spatial.
 
-- Programmazione: </br>
-Armadietto (Alessio + Mati) </br>
-Npc (?) (Vincenzo) </br>
-Aree gioco </br>
-Ambiente verde e rilassante </br>
+Read more here: https://docs.spatial.io
