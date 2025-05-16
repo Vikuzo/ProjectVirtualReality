@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: SampleScript
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":130.2065,"y":-41.40996},"zoom":0.71,"elements":[{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"Body","$type":"System.String"}},"position":{"x":-342.0,"y":-110.0},"guid":"8a2e8a1a-191d-4564-8a29-2a37206b914d","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"9"},{"coroutine":false,"defaultValues":{"interactable":null},"position":{"x":-157.0,"y":-28.0},"guid":"67b98c6e-f40e-4d69-92e2-47c9a989bf09","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SpatialInteractableOnInteract","$id":"11"},{"outputCount":2,"defaultValues":{},"position":{"x":56.0,"y":-144.0},"guid":"4a5965d8-9164-4ffa-af9c-3708024325ba","$version":"A","$type":"Unity.VisualScripting.Sequence","$id":"13"},{"animStyle":"Simple","defaultValues":{"text":{"$content":"Ben
+      fatto!","$type":"System.String"},"textPosition":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"color":{"r":0.6320754,"g":0.08745691,"b":0.08745691,"a":1.0,"$type":"UnityEngine.Color"},"force":{"$content":0.0,"$type":"System.Single"},"gravity":{"$content":false,"$type":"System.Boolean"}},"position":{"x":308.0,"y":-311.0},"guid":"6ea4a918-70b3-47e9-b4b8-edcc51768eb2","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.CreateFloatingTextFloatForceNode","$id":"15"},{"defaultValues":{"equip":{"$content":true,"$type":"System.Boolean"},"clearSlot":{"$content":true,"$type":"System.Boolean"},"optionalTag":{"$content":"","$type":"System.String"}},"position":{"x":206.0,"y":-22.0},"guid":"bf0d6d51-8653-4711-a718-a66aeff82a98","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.EquipAvatarAttachmentEmbeddedPackageAssetNode","$id":"17"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"id","$type":"System.String"}},"position":{"x":-76.0,"y":142.0},"guid":"b634934d-37cc-40ab-b1bf-b59642d2c070","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"19"},{"sourceUnit":{"$ref":"11"},"sourceKey":"trigger","destinationUnit":{"$ref":"13"},"destinationKey":"enter","guid":"d63118a5-3ece-4ae2-bf2d-d5f557849211","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"0","destinationUnit":{"$ref":"15"},"destinationKey":"inputTrigger","guid":"4b9fba82-3d60-46c6-9686-db17d1b5695a","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"1","destinationUnit":{"$ref":"17"},"destinationKey":"inputTrigger","guid":"d1abad70-c311-4961-a01b-1fced9a2b1aa","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"interactable","guid":"6f443e6f-bd58-4851-bad8-169d0c82f423","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"value","destinationUnit":{"$ref":"17"},"destinationKey":"assetID","guid":"fb7f1c5f-c8b8-45e4-bb81-e2863e556574","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

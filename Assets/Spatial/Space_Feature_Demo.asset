@@ -21,7 +21,9 @@ MonoBehaviour:
   worldID: 
   scene: {fileID: 102900000, guid: c662346b3786fc14eaf333163abd9e1c, type: 3}
   csharpAssembly: {fileID: 0}
-  embeddedPackageAssets: []
+  embeddedPackageAssets:
+  - id: pippo
+    asset: {fileID: 1925890994737439097, guid: 38b04a1bd59adc3478e6aa6a457e5882, type: 3}
   networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
