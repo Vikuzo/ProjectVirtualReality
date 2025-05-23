@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: 
-  packageName: Sample
+  packageName: Cortile6
   thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
   worldID: 
-  scene: {fileID: 102900000, guid: c662346b3786fc14eaf333163abd9e1c, type: 3}
+  scene: {fileID: 102900000, guid: 889bd1ff29eb6a54b8ee28a5ff4696c9, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets:
   - id: pippo
